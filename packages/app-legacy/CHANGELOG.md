@@ -1,5 +1,12 @@
 # example-app-legacy
 
+## 0.2.126-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/cli@0.36.7-next.0
+
 ## 0.2.125
 
 ### Patch Changes
